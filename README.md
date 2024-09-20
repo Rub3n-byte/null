@@ -11,7 +11,7 @@
 1. Lista
    * Minilista 1
 3. Lista
-   *Minilista 3
+   * Minilista 2
 
 ````esto es como el #````
 
