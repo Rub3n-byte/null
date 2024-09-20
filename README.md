@@ -16,4 +16,5 @@
 ````esto es como el #````
 
 [web](https://github.com/Rub3n-byte/null "web")
-![logo](https://github.com/Rub3n-byte/null/blob/main/logo.png "logo"]
+
+![logo](https://github.com/Rub3n-byte/null/blob/main/logo.png "logo")
