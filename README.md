@@ -13,7 +13,7 @@
 3. Lista
    * Minilista 2
 
-````esto es como el #````
+````esto es como echo````
 
 [web](https://github.com/Rub3n-byte/null "web")
 
